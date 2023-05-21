@@ -7,5 +7,5 @@
 <h4 align="center"> This tool is made for educational purposes only, I am not responsible for the way you use it. This tool can down some simple networks, depending on your internet speed. </h4>
 
 <h3 align="center"> REQUIREMENTS </h3>
-<h4 align="center"> [+] Pysyle </h4>
+<h4 align="center"> [+] Pystyle </h4>
 <h4 align="center"> [+] A Brain </h4>
