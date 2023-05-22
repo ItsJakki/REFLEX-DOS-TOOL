@@ -1,6 +1,6 @@
 # REFLEX-DOS
 
-<h1 align="center"> <img src="https://github.com/ItsJakki/REFLEX-DOS/blob/main/Screenshot%202023-05-21%20112049.png"> </h1>
+<h1 align="center"> <img src="https://github.com/ItsJakki/REFLEX-DOS-TOOL/blob/main/Screenshot%202023-05-21%20112049.png"> </h1>
 
 <h1 align="center"> REFLEX </h1>
 <h3 align="center"> A tool that can DoS servers (educational purposes only) </h3>
